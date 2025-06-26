@@ -1,0 +1,15 @@
+[package]
+name = "jwk-box"
+version = "0.1.0"
+edition = "2021"
+authors = ["Andy Carlos <andy@twisting.ink>"]
+description = "A simple JWK client."
+license = "MIT"
+keywords = ["jwt", "jwk", "validation", "client", "async"]
+categories = ["authentication"]
+repository = "https://github.com/andymakingthings/jwk-box"
+documentation = "https://docs.rs/jwk-box/"
+readme = "README.md"
+
+
+[dependencies]
